@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Deva123:Deva123@devconnector.qypqga3.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "615538cb6170c2b0780c",
+    "githubSecret": "34aa924dc0abdabcf0b8778022e28e89ee4437b2"
+ }
